@@ -1,7 +1,7 @@
 /*
 //每日英语阅读/每日外刊
 
-http-response ^https:\/\/dict\.eudic\.net\/jingting\/GetThisChapterTaskStatus? requires-body=1,max-size=0,script-path=https://github.com/xiaoming123m/Surge/blob/master/mryy.js
+http-response ^https:\/\/dict\.eudic\.net\/jingting\/GetThisChapterTaskStatus? requires-body=1,max-size=0,script-path mryy.js
 
 
 //by chamberlen

@@ -1,7 +1,6 @@
 
 
-^https?:\/\/vira\.llsapp\.com\/api\/v2\/readings\/(accessible|limitation) url script-response-body https://github.com/xiaoming123m/Surge/new/master/llydW.js
-
+^https?:\/\/vira\.llsapp\.com\/api\/v2\/readings\/(accessible|limitation) url script-response-body https://github.com/xiaoming123m/Surge/blob/master/llydW.js
 MitM=vira.llsapp.com
 
 var obj = $response.body;

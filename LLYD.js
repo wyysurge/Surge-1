@@ -1,5 +1,9 @@
 http-response ^https?:\/\/vira\.llsapp\.com\/api\/v2\/readings\/(accessible|limitation) requires-body=1,max-size=0,script-path=https://github.com/xiaoming123m/Surge/blob/master/LLYD.js
 
+^https?:\/\/vira\.llsapp\.com\/api\/v2\/readings\/(accessible|limitation) url script-response-body https://github.com/xiaoming123m/Surge/blob/master/LLYD.js
+
+
+
 MitM=vira.llsapp.com
 
 
